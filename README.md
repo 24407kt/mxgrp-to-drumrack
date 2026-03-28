@@ -157,6 +157,12 @@ python mxgrp_to_drumrack.py "D:\Native Instruments Library" --template "path/to/
 - テンプレートとして Drum Essentials Pack が必要
 - シンセパッド（.wav サンプルがないパッド）はスキップ
 
+## Disclaimer
+
+This tool is provided as-is, without warranty of any kind. Use at your own risk. This project is not affiliated with, endorsed by, or associated with Native Instruments or Ableton. The `.mxgrp` file format is reverse-engineered; future updates to Maschine or Ableton may affect compatibility. Users are responsible for ensuring their use complies with applicable software license agreements.
+
+本ツールは現状有姿で提供され、いかなる保証もありません。ご利用は自己責任でお願いします。本プロジェクトは Native Instruments および Ableton とは一切関係ありません。`.mxgrp` ファイル形式はリバースエンジニアリングによるものであり、Maschine や Ableton のアップデートにより互換性が失われる可能性があります。ご利用にあたっては、関連するソフトウェアのライセンス規約への準拠をご自身でご確認ください。
+
 ## License
 
 MIT
